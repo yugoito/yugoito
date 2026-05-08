@@ -4,6 +4,7 @@
 ## 👨‍💻 About Me
 
 - 🎓 **Master's student** at Tokyo University of Agriculture and Technology.
+  - Member of [Koki Yamada Laboratory](https://web.tuat.ac.jp/~koki-yamada-lab/)
 - 🔬 Researching **Graph Neural Networks (GNNs)** and Graph noise removing.
 - 🏟️ Worked as a **Security Manager** at Tokyo Dome, leading a team of 100+ staff.
 - 🚀 Currently seeking internships in **IT Consulting** and **Software Engineering**.
