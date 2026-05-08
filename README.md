@@ -12,9 +12,8 @@
 ## 🏆 Research Achievements
 
 - 🎤 **Oral Presentation** | [The 57th ISCIE International Symposium on Stochastic Systems Theory and Its Applications (SSS25)](https://sss25.sci-sss.org/info/sessionProgram/) 
-  - "Title of Your Research Paper / Proposed GNN Architecture for ..."
-  - Presented a novel approach using Graph Neural Networks to solve [Complex Problem/Optimization].
-  - Evaluated the mathematical robustness and practical scalability of the proposed model.
+  - **"Attention Based Graph Signal Denoising"**
+  - Developed a novel denoising framework for graph-structured data by leveraging **Attention mechanisms** to adaptively capture node relationships.
 
 ## 📚 Languages
 
