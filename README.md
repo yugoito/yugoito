@@ -14,13 +14,13 @@
 - 🎤 **Oral Presentation** | [The 57th ISCIE International Symposium on Stochastic Systems Theory and Its Applications (SSS25)](https://sss25.sci-sss.org/info/sessionProgram/) 
   - **"Attention Based Graph Signal Denoising"**
   - Developed a novel denoising framework for graph-structured data by leveraging **Attention mechanisms** to adaptively capture node relationships.
+  - Our model outperformed existing methods in “mixed learning,” which involves simultaneously training on graphs with different topologies.
 
 ## 📚 Languages
 
 <p align="left">
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=python,pytorch,c,matlab,haskell,html,css,latex" />
-  <img src="pytorchlightning_logo_icon_248737.svg" width="56",rx="60" alt="PyTorch Lightning">
 </a>
 </p>
 
@@ -30,7 +30,7 @@
 
 <p align="left">
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=windows,apple,visualstudio,ubuntu,linux,vscode,docker,git,github,gmail,instagram" />
+  <img src="https://skillicons.dev/icons?i=windows,apple,ubuntu,linux,vscode,visualstudio,docker,git,github,gmail,instagram" />
 </p>
 
 ---
